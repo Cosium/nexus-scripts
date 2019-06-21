@@ -1,1 +1,1 @@
-Collection of useful Nexus groovy scripts
+Collection of useful Nexus scripts
